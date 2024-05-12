@@ -1,0 +1,2 @@
+Uma organização precisa registrar os diretores dos departamentos, os diretores podem ser responsáveis por mais de um departamento mas o departamento só pode ter um responsável. É necessário armazenar CPF, nome e endereço do diretor.
+Crie o modelo de entidade relacionamento, crie as tabelas em mySQL, insira dados de exemplo, e consulte.

@@ -1,0 +1,7 @@
+- Controle de cursos (ideia base)
+
+. O funcionário deve apresentar ao interessado a listagem de todos os cursos oferecidos pela empresa. 
+. Se o cliente se interessar por algum curso, o atendente deve selecioná-lo, o que forçará a apresentação de todas as turmas relativas a este curso ainda em aberto. 
+. Caso o horário de alguma das turmas for adequado ao cliente, este irá se matricular na turma em questão. 
+. Neste momento o atendente deve verificar se o aluno já está cadastrado ou se o seu cadastro deve ser atualizado. Caso não esteja cadastrado, um novo cadastro deverá ser criado. 
+. Depois disso, o atendente deverá fazer a matrícula informando o curso, a turma e o aluno. O sistema deve retornar, o número de matrícula gerado

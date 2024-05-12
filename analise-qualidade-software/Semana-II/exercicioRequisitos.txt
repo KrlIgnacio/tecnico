@@ -1,0 +1,11 @@
+Sistema de Loja de Vídeo 
+Lista de requisitos 
+1. O sistema deve cadastrar o cliente. 
+2. O sistema deve emitir um recibo para o cliente. 
+3. O sistema deve transformar uma fita disponível em fita emprestada, quando a 
+fita for alugada pelo cliente. 
+4. O sistema deve cadastrar o cliente rapidamente, em menos de 2 minutos. 
+5. O sistema deve emitir um recibo para o cliente, com o tempo máximo de 8 
+segundos após a transação. 
+6. O sistema deve atender as normas do padrão IEEE.
+7. O sistema não pode perder dados do cliente.

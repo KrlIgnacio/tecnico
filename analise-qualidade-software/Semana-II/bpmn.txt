@@ -1,0 +1,4 @@
+
+Exercício BPMN
+
+O funcionário do Departamento de Marketing solicita a compra. Se a compra for de um pôster é aprovada automaticamente, caso contrário, seu gerente deve verificar. 
