@@ -9,6 +9,7 @@
 ### ➡️ [Desenvolvimento Web II](desenvolvimento-web-II) 
 ### ➡️ [Desenvolvimento Web III](desenvolvimento-web-III) 
 ### ➡️ [Sistemas Operacionais & Redes](sistemas-operacionais-e-redes)
+### ➡️ [Internet das Coisas (IoT)](internet-das-coisas)
 #
  📚 As aulas presenciais foram ministradas pelo professor Eduardo Trapp Fernandes, mestre em Engenharia de Software e Gerente de Projetos. O material didático e o material de apoio e em vídeo foram produzidos por outros profissionais da área de TI.
 #
